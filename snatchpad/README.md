@@ -4,4 +4,4 @@
 Please note that the wiring diagram is seeing the plate from below. Take note of the matrix numbers labled next to the components.
 ![Snatchpad wiring diagram](images/snatchpad_wiring.png?raw=true)
 ![EC11 rotary encoder pinout](images/ec11_pinout.png?raw=true)
-![Example wiring]images/handwire_complete.jpg?raw=true)
+![Example wiring](images/handwire_complete.jpg?raw=true)
