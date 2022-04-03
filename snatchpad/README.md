@@ -4,3 +4,4 @@
 Please note that the wiring diagram is seeing the plate from below.
 ![Snatchpad wiring diagram](images/wiring_diagram.jpg?raw=true)
 ![Example wiring](images/handwire_complete.jpg?raw=true)
+![snatchpad instructions](images/instructions.jpg?raw=true)
